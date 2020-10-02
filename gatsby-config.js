@@ -13,7 +13,7 @@ module.exports = {
     social: [
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/vrennat`,
       },
     ],
   },
